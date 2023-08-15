@@ -62,7 +62,7 @@ $ npm run
 
 ## 🌐 Link <a name="link"></a>
 
-Para não ter que executar os códigos e ver o que foi desenvolvido, <a href="#">você pode clicar aqui para acessar a aplicação</a>.
+Para não ter que executar os códigos e ver o que foi desenvolvido, <a href="https://portfolio-drisabelles.netlify.app/">você pode clicar aqui para acessar a aplicação</a>.
 
 </br>
 
